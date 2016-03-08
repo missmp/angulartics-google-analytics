@@ -1,5 +1,8 @@
 ## angulartics-google-analytics
 
+### Fork changes:
+Removed query parameters from page tracking.
+
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Join the Slack chat][slack-image]][slack-url] [![Build Status](https://travis-ci.org/angulartics/angulartics-google-analytics.svg?branch=master)](https://travis-ci.org/angulartics/angulartics-google-analytics)
 
 Google Analytics plugin for [Angulartics](https://github.com/angulartics/angulartics).
